@@ -1,0 +1,88 @@
+{
+  "uid" : "149e93c7760b32",
+  "name" : "checkingTotalPriceAndQuantityFromCartPage()",
+  "fullName" : "com.ridus.amazon.tests.ItemsFromCartTest.checkingTotalPriceAndQuantityFromCartPage",
+  "historyId" : "f8fd72a66378cd494bd89d922eede496",
+  "time" : {
+    "start" : 1637109599036,
+    "stop" : 1637109610883,
+    "duration" : 11847
+  },
+  "description" : "Open cart and assert that the total price and quantity are correct",
+  "descriptionHtml" : "<p>Open cart and assert that the total price and quantity are correct</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1637109593315,
+      "stop" : 1637109598573,
+      "duration" : 5258
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "cleanDriverInstances",
+    "time" : {
+      "start" : 1637109633655,
+      "stop" : 1637109634046,
+      "duration" : 391
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "Error401.local"
+  }, {
+    "name" : "thread",
+    "value" : "3889@Error401.local.Test worker(13)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.ridus.amazon.tests.ItemsFromCartTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.ridus.amazon.tests.ItemsFromCartTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkingTotalPriceAndQuantityFromCartPage"
+  }, {
+    "name" : "suite",
+    "value" : "com.ridus.amazon.tests.ItemsFromCartTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "149e93c7760b32.json",
+  "parameterValues" : [ ]
+}

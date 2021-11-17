@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "Error401.local",
+    "children" : [ {
+      "name" : "3889@Error401.local.Test worker(13)",
+      "children" : [ {
+        "name" : "checkingTotalPriceAndQuantityFromCartPage()",
+        "uid" : "149e93c7760b32",
+        "parentUid" : "47f30e64e219b84b5cd949b9dae96ae3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1637109599036,
+          "stop" : 1637109610883,
+          "duration" : 11847
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkingNewTotalPriceAndQuantityFromCartPage()",
+        "uid" : "970220e45fba3021",
+        "parentUid" : "47f30e64e219b84b5cd949b9dae96ae3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1637109610987,
+          "stop" : 1637109633648,
+          "duration" : 22661
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "47f30e64e219b84b5cd949b9dae96ae3"
+    } ],
+    "uid" : "258b28968f6b8336e082e68a21d01dfb"
+  } ],
+  "name" : "timeline"
+}

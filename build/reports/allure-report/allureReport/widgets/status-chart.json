@@ -1,0 +1,21 @@
+[ {
+  "uid" : "970220e45fba3021",
+  "name" : "checkingNewTotalPriceAndQuantityFromCartPage()",
+  "time" : {
+    "start" : 1637109610987,
+    "stop" : 1637109633648,
+    "duration" : 22661
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "149e93c7760b32",
+  "name" : "checkingTotalPriceAndQuantityFromCartPage()",
+  "time" : {
+    "start" : 1637109599036,
+    "stop" : 1637109610883,
+    "duration" : 11847
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

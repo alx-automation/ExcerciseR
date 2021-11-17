@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "checkingTotalPriceAndQuantityFromCartPage()",
+    "uid" : "149e93c7760b32",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1637109599036,
+      "stop" : 1637109610883,
+      "duration" : 11847
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "checkingNewTotalPriceAndQuantityFromCartPage()",
+    "uid" : "970220e45fba3021",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1637109610987,
+      "stop" : 1637109633648,
+      "duration" : 22661
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "behaviors"
+}

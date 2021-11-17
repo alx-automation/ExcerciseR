@@ -1,0 +1,41 @@
+{
+  "f8fd72a66378cd494bd89d922eede496" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "149e93c7760b32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637109599036,
+        "stop" : 1637109610883,
+        "duration" : 11847
+      }
+    } ]
+  },
+  "5c22fb6210ab07eeb6b824c71236c56c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "970220e45fba3021",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.id: price_inside_buybox (tried for 20 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1637109610987,
+        "stop" : 1637109633648,
+        "duration" : 22661
+      }
+    } ]
+  }
+}
